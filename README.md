@@ -2,17 +2,20 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=100&lines=Aspiring+Full-Stack+Developer+%F0%9F%92%BB;Competitive+Programming+Enthusiast+%F0%9F%A7%A0;AI+%26+Technology+Explorer+%F0%9F%A4%96;Building+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&repeat=true&width=550&height=50&lines=Aspiring+Full-Stack+Developer+%F0%9F%92%BB;Competitive+Programming+Enthusiast+%F0%9F%A7%A0;AI+%26+Technology+Explorer+%F0%9F%A4%96;Building+Real-World+Projects+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
-<br>
+<p align="center">
+  Engineering student at <strong>Aditya University</strong> — currently in my <strong>3rd semester</strong>.<br>
+  Passionate about building real-world software, solving algorithmic challenges, and exploring AI-powered applications.<br>
+  <em>Learning by doing — every project, contest, and line of code is a step forward.</em>
+</p>
 
-Engineering student at **Aditya University** — currently in my **3rd semester**. Passionate about building real-world software, solving algorithmic challenges, and exploring AI-powered applications. I believe in learning by doing — every project, contest, and line of code is a step forward.
-
-<br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=kamepalliakhilesh-cpu&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/kamepalliakhilesh-cpu)
-[![GitHub followers](https://img.shields.io/github/followers/kamepalliakhilesh-cpu?label=Followers&style=social)](https://github.com/kamepalliakhilesh-cpu?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/-Akhilesh%20Kamepalli-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-kamepalli-245572386/)
+<p align="center">
+  <a href="https://github.com/kamepalliakhilesh-cpu"><img src="https://komarev.com/ghpvc/?username=kamepalliakhilesh-cpu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /></a>
+  <a href="https://github.com/kamepalliakhilesh-cpu?tab=followers"><img src="https://img.shields.io/github/followers/kamepalliakhilesh-cpu?label=Followers&style=social" alt="GitHub followers" /></a>
+  <a href="https://www.linkedin.com/in/akhilesh-kamepalli-245572386/"><img src="https://img.shields.io/badge/-Akhilesh%20Kamepalli-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:kamepalliakhilesh@gmail.com"><img src="https://img.shields.io/badge/Email-kamepalliakhilesh%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 </div>
 
@@ -272,6 +275,7 @@ I focus on **understanding fundamentals** before chasing trends, **building prac
 
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Email-kamepalliakhilesh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kamepalliakhilesh@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-kamepalliakhilesh--cpu-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kamepalliakhilesh-cpu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akhilesh%20Kamepalli-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhilesh-kamepalli-245572386/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-k__v__akhilesh-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/k_v_akhilesh/)
