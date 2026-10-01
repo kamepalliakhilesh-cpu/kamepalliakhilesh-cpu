@@ -206,7 +206,7 @@ Game development project exploring the roguelike genre with RPG progression and 
 
 <div align="center">
 
-[![CodeChef Rating](https://cp-logo.vercel.app/codechef/k_v_akhilesh)](https://www.codechef.com/users/k_v_akhilesh)
+[![CodeChef Stats](https://raw.githubusercontent.com/kamepalliakhilesh-cpu/kamepalliakhilesh-cpu/codechef-stats/codechef-stats.svg)](https://www.codechef.com/users/k_v_akhilesh)
 
 </div>
 
