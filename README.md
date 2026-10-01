@@ -192,50 +192,21 @@ Game development project exploring the roguelike genre with RPG progression and 
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1" width="100%" alt="" />
-</div>
-
-<br>
-
-<h3 align="center">⚡ LeetCode Activity</h3>
+### ⚡ LeetCode Activity
 
 <div align="center">
 
-<!-- Custom neon cyberpunk palette: dark bg → electric cyan/magenta/amber accents -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/k_v_akhilesh?theme=wtf&font=Fira%20Code&ext=heatmap&border=0&radius=20" />
-  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/k_v_akhilesh?theme=light&font=Fira%20Code&ext=heatmap&border=0&radius=20" />
-  <img alt="LeetCode Heatmap" src="https://leetcard.jacoblin.cool/k_v_akhilesh?theme=wtf&font=Fira%20Code&ext=heatmap&border=0&radius=20" width="520" />
-</picture>
-
-
+[![LeetCode Heatmap](https://leetcard.jacoblin.cool/k_v_akhilesh?theme=wtf&font=Fira%20Code&ext=heatmap&border=0&radius=20)](https://leetcode.com/u/k_v_akhilesh/)
 
 </div>
 
 <br>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:161b22,100:0d1117&height=1" width="100%" alt="" />
-</div>
-
-<br>
-
-<h3 align="center">🍳 CodeChef Activity</h3>
+### 🍳 CodeChef Activity
 
 <div align="center">
 
-<!-- CodeChef Rating Badge -->
-<a href="https://www.codechef.com/users/k_v_akhilesh">
-  <img src="https://cp-logo.vercel.app/codechef/k_v_akhilesh" alt="CodeChef Rating" height="40" />
-</a>
-
-<br><br>
-
-<!-- CodeChef Heatmap (dark themed) -->
-<a href="https://www.codechef.com/users/k_v_akhilesh">
-  <img src="https://codechef-api.vercel.app/handle/k_v_akhilesh" alt="CodeChef Heatmap" width="85%" />
-</a>
+[![CodeChef Rating](https://cp-logo.vercel.app/codechef/k_v_akhilesh)](https://www.codechef.com/users/k_v_akhilesh)
 
 </div>
 
@@ -325,44 +296,6 @@ I focus on **understanding fundamentals** before chasing trends, **building prac
 </picture>
 
 </div>
-
-> 💡 **Setup Required:** To enable the snake animation, create the GitHub Actions workflow below in your profile repository.
-
-<details>
-<summary>📋 GitHub Actions Workflow for Snake Animation</summary>
-
-Create `.github/workflows/snake.yml` in your `kamepalliakhilesh-cpu` profile repository:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate Snake Game from GitHub Contribution Grid
-        uses: Platane/snk@v3
-        with:
-          github_user_name: kamepalliakhilesh-cpu
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-
-      - name: Push to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
 
 ---
 
