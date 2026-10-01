@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="120" viewBox="0 0 400 120">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#666666"/>
+      <stop offset="100%" style="stop-color:#66666688"/>
+    </linearGradient>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+  
+  <rect width="400" height="120" rx="12" fill="url(#bg)" filter="url(#shadow)"/>
+  <rect x="0" y="0" width="6" height="120" rx="3" fill="url(#accent)"/>
+  
+  <!-- CodeChef Logo Text -->
+  <text x="30" y="35" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="600" fill="#8892b0">CODECHEF</text>
+  
+  <!-- Username -->
+  <text x="30" y="62" font-family="'Segoe UI', Arial, sans-serif" font-size="20" font-weight="700" fill="#e6f1ff">k_v_akhilesh</text>
+  
+  <!-- Rating -->
+  <text x="30" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#8892b0">Rating: </text>
+  <text x="100" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="700" fill="#666666">1191</text>
+  
+  <!-- Stars -->
+  <text x="200" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="18" fill="#666666">★</text>
+  
+  <!-- Badge -->
+  <rect x="300" y="20" width="80" height="30" rx="15" fill="#66666622" stroke="#666666" stroke-width="1.5"/>
+  <text x="340" y="40" font-family="'Segoe UI', Arial, sans-serif" font-size="12" font-weight="600" fill="#666666" text-anchor="middle">1★</text>
+</svg>
