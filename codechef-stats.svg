@@ -24,7 +24,7 @@
   
   <!-- Rating -->
   <text x="30" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#8892b0">Rating: </text>
-  <text x="100" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="700" fill="#666666">1191</text>
+  <text x="100" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="18" font-weight="700" fill="#666666">1205</text>
   
   <!-- Stars -->
   <text x="200" y="95" font-family="'Segoe UI', Arial, sans-serif" font-size="18" fill="#666666">★</text>
