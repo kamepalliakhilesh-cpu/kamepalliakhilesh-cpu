@@ -11,6 +11,7 @@
 </p>
 
 <p align="center">
+  <a href="https://kamepalliakhilesh-cpu.github.io/profile.io/"><img src="https://img.shields.io/badge/🌐%20Portfolio-profile.io-8A2BE2?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/kamepalliakhilesh-cpu"><img src="https://komarev.com/ghpvc/?username=kamepalliakhilesh-cpu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" /></a>
   <a href="https://github.com/kamepalliakhilesh-cpu?tab=followers"><img src="https://img.shields.io/github/followers/kamepalliakhilesh-cpu?label=Followers&style=social" alt="GitHub followers" /></a>
   <a href="https://www.linkedin.com/in/akhilesh-kamepalli-245572386/"><img src="https://img.shields.io/badge/-Akhilesh%20Kamepalli-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -283,7 +284,7 @@ I focus on **understanding fundamentals** before chasing trends, **building prac
 [![Codeforces](https://img.shields.io/badge/Codeforces-kamepalliakhilesh-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/kamepalliakhilesh)
 [![HackerRank](https://img.shields.io/badge/HackerRank-kamepallakhile1-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/kamepallakhile1)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-kvakhilesh-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/kvakhilesh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Profile-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/kamepalliakhilesh-cpu/my-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-profile.io-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kamepalliakhilesh-cpu.github.io/profile.io/)
 
 </div>
 
